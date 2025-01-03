@@ -24,7 +24,7 @@
 
 // after backend
 
-const BASE_URL = 'https://your-backend-url/api/bookings';
+const BASE_URL = 'https://tablebookingsystem-backend.onrender.com';
 
 export const getSlotsForDate = async (date) => {
   const response = await fetch(`${BASE_URL}/${date}`);
