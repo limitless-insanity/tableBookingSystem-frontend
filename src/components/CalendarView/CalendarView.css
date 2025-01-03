@@ -1,0 +1,17 @@
+.calendar-container {
+    margin: 20px auto;
+    max-width: 400px;
+    border: 1px solid black;
+    padding: 10px;
+    background: white;
+  }
+  
+  .react-calendar {
+    border: none;
+  }
+  
+  .highlight {
+    background-color: black;
+    color: white;
+  }
+  

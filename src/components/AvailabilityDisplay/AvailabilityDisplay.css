@@ -1,0 +1,18 @@
+.availability-container {
+    text-align: center;
+  }
+  
+  .slots {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .slot {
+    border: 1px solid black;
+    background: black;
+    color: white;
+    padding: 10px 20px;
+  }
+  
